@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Breakout",
+  "description": "A retro-style pixel art breakout game where you can customize ball count and speed. Features dynamic difficulty scaling and CRT visual effects.",
+  "requestFramePermissions": []
+}
